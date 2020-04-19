@@ -37,7 +37,7 @@ improve_content: https://github.com/YohanObadia/blog
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: https://github.com/YohanObadia/blog/images/
+urlimg: https://github.com/YohanObadia/blog/tree/master/images
 #'images/'
 
 

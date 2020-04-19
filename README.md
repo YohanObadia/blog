@@ -1,1 +1,1 @@
-A data science blog based on the Feeling Responsive
+A data science blog based on the Feeling Responsive template
