@@ -7,7 +7,7 @@
 layout: frontpage
 title: "Data thoughts"
 header:
-  image_fullwidth: background.png
+  image_fullwidth: images/background.png
 # widget1:
 #   title: "Blog & Portfolio"
 #   url: 'http://phlow.github.io/feeling-responsive/blog/'
